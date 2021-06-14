@@ -1,0 +1,23 @@
+.RN{
+    background-color: gray;
+    font-size: large;
+}
+.RY{
+    background-color: whitesmoke;
+    font-size: large;
+}
+.NM{
+    background-color: darkgoldenrod;
+    font-size: large;
+    color: black;
+}
+.red{
+    background-color: red;
+    
+}
+td{
+    height: 30px;
+    width: 30px;
+    border:0.5px solid black;
+    text-align: center;
+}
